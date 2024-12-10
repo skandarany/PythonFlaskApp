@@ -7,3 +7,4 @@ pdfplumber
 spacy
 skillNer
 werkzeug
+gunicorn
