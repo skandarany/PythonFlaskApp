@@ -1,0 +1,9 @@
+Flask
+psycopg2-binary
+pytesseract
+Pillow
+pdf2image
+pdfplumber
+spacy
+skillNer
+werkzeug
